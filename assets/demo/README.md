@@ -6,15 +6,17 @@
 * Poster: [`endcard-still.png`](./endcard-still.png)
 * Verified Impact numbers: [`STATS.md`](./STATS.md)
 
-GitHub plays the mp4 in browser when you open the file. For a watch without download path, use the YouTube slot below once the unlisted URL is pasted.
+GitHub plays the mp4 in browser when you open the file. Prefer the Unlisted YouTube watch link below so you do not need to download.
 
 ## YouTube
 
-**YouTube link pending**
+**[Watch on YouTube (Unlisted)](https://www.youtube.com/watch?v=QOuDSep98Rc)**
 
-Paste the unlisted watch URL here when it is ready.
+Channel: [YouTube](https://www.youtube.com/channel/UCqvLhrwY5FILClPrAHZqU-Q)
 
-Judges: until that URL lands, click the mp4 (or the poster on the root README).
+https://www.youtube.com/@RobertoAgent-h4c
+
+The mp4 and poster on the root README remain available if you want the local file.
 
 ## What’s in the cut
 

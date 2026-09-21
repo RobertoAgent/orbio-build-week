@@ -31,7 +31,7 @@ Video is ready: [`assets/demo/orbio-build-week-demo.mp4`](./assets/demo/orbio-bu
 
 End card numbers are **production Impact SQL**, not estimates: 66 users, 1.81B tokens, 647 hrs saved, $27.7K labor value. See [`assets/demo/STATS.md`](./assets/demo/STATS.md).
 
-**YouTube link pending** (unlisted watch URL to be pasted here). Until then, play the mp4 in GitHub’s viewer. Live product: [robertoagent.com](https://robertoagent.com) (invite / early access).
+**[Watch on YouTube (Unlisted)](https://www.youtube.com/watch?v=QOuDSep98Rc)**. Local mp4 still plays in GitHub’s viewer. Channel: [YouTube](https://www.youtube.com/channel/UCqvLhrwY5FILClPrAHZqU-Q) · [`@RobertoAgent-h4c`](https://www.youtube.com/@RobertoAgent-h4c). Live product: [robertoagent.com](https://robertoagent.com) (invite / early access).
 
 ## Ask
 

@@ -23,7 +23,7 @@ That is the brief: *build an agent on your key.*
 
 The Remotion end card shows **live Impact stats from production** (SQL, not estimates): **66 users**, **1.81B tokens**, **647 hrs saved**, **$27.7K labor value**. Exact figures: [`assets/demo/STATS.md`](./assets/demo/STATS.md).
 
-**YouTube link pending** (unlisted watch URL to be pasted here so judges can watch without fetching the file).
+**[Watch on YouTube (Unlisted)](https://www.youtube.com/watch?v=QOuDSep98Rc)** so judges can watch without fetching the file. Channel: [YouTube](https://www.youtube.com/channel/UCqvLhrwY5FILClPrAHZqU-Q) · [`@RobertoAgent-h4c`](https://www.youtube.com/@RobertoAgent-h4c)
 
 Live product (invite / early access): [robertoagent.com](https://robertoagent.com). Folder notes: [`assets/demo/README.md`](./assets/demo/README.md).
 
