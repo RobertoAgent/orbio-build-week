@@ -27,7 +27,12 @@ We treated Orbio as the default path to “one key, all the models”:
 
 ## Demo
 
-Polished video is **in production** and will be linked from [`assets/demo/`](./assets/demo/). Until then, judges can use the live site with early access / invite.
+Video is ready: [`assets/demo/orbio-build-week-demo.mp4`](./assets/demo/orbio-build-week-demo.mp4) (60.6s, h264, Remotion end card). Poster: [`assets/demo/endcard-still.png`](./assets/demo/endcard-still.png).
+
+End card numbers are **production Impact SQL**, not estimates: 66 users, 1.81B tokens, 647 hrs saved, $27.7K labor value — see [`assets/demo/STATS.md`](./assets/demo/STATS.md).
+
+<!-- youtube: pending -->
+**Watch on YouTube:** `YOUTUBE_URL` (unlisted; will be filled after upload). Until then, play the mp4 in GitHub’s viewer. Live product: [robertoagent.com](https://robertoagent.com) (invite / early access).
 
 ## Ask
 

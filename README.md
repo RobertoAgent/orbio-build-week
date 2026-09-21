@@ -20,11 +20,16 @@ That is the brief: *build an agent on your key.*
 
 ## Demo video
 
-> **Coming soon.** A polished walkthrough is being recorded and will land in [`assets/demo/`](./assets/demo/).
->
-> Until then, try the live product: [robertoagent.com](https://robertoagent.com) (invite / early access).
+**[Watch the 60.6s demo](./assets/demo/orbio-build-week-demo.mp4)** — 1920×1080 h264. Opens in GitHub’s in-browser player (no extra download step if your client streams it).
 
-**Slot for the video:** drop the final file at `assets/demo/orbio-build-week-demo.mp4` (or link it from `assets/demo/README.md`).
+[![Demo end card — live Impact stats](./assets/demo/endcard-still.png)](./assets/demo/orbio-build-week-demo.mp4)
+
+The Remotion end card shows **live Impact stats from production** (SQL, not estimates): **66 users**, **1.81B tokens**, **647 hrs saved**, **$27.7K labor value**. Exact figures: [`assets/demo/STATS.md`](./assets/demo/STATS.md).
+
+<!-- youtube: pending -->
+**Watch on YouTube:** `YOUTUBE_URL` — unlisted link will be added after upload so judges can watch without fetching the file.
+
+Live product (invite / early access): [robertoagent.com](https://robertoagent.com). Folder notes: [`assets/demo/README.md`](./assets/demo/README.md).
 
 ---
 
@@ -99,7 +104,7 @@ Full one-pager: [`WRITEUP.md`](./WRITEUP.md).
 
 | Path | Purpose |
 | --- | --- |
-| [`assets/demo/`](./assets/demo/) | **Demo video slot** (fancy cut coming from the builder) |
+| [`assets/demo/`](./assets/demo/) | Final demo (`orbio-build-week-demo.mp4`), poster, verified stats |
 | [`assets/screenshots/`](./assets/screenshots/) | Product UI screenshots (placeholders ready) |
 | [`assets/diagrams/`](./assets/diagrams/) | Architecture diagram placeholders |
 | [`docs/architecture.md`](./docs/architecture.md) | Longer architecture notes |
