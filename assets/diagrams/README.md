@@ -1,9 +1,9 @@
-# Architecture diagrams (placeholders)
+# Architecture diagrams
 
-| File | Content |
-| --- | --- |
-| `system-overview.png` | Clients → API → runtime → Orbio |
-| `orbio-key-flow.png` | BYOK → default model → fallback → usage ledger |
-| `room-session.png` | Room participants + agent tool loop |
+Suggested filenames (keep these exact names):
+
+* `system-overview.png` Clients → API → runtime → Orbio
+* `orbio-key-flow.png` BYOK → default model → fallback → usage ledger
+* `room-session.png` Room participants + agent tool loop
 
 ASCII versions are in [`docs/architecture.md`](../../docs/architecture.md) and the root README.

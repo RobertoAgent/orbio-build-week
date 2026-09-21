@@ -1,25 +1,26 @@
-# Demo video (placeholder)
+# Demo video
 
-**Status:** fancy demo is being produced by the builder.
+**Status:** final cut is in this folder.
 
-## Drop the final cut here
+* File: [`orbio-build-week-demo.mp4`](./orbio-build-week-demo.mp4) (60.6s, 1920×1080, h264 + aac, Remotion end card)
+* Poster: [`endcard-still.png`](./endcard-still.png)
+* Verified Impact numbers: [`STATS.md`](./STATS.md)
 
-Preferred filename:
+GitHub plays the mp4 in browser when you open the file. For a watch without download path, use the YouTube slot below once the unlisted URL is pasted.
 
-```text
-assets/demo/orbio-build-week-demo.mp4
-```
+## YouTube
 
-Or host externally and paste the URL below:
+**YouTube link pending**
 
-```text
-Demo URL: (pending)
-```
+Paste the unlisted watch URL here when it is ready.
 
-## Suggested beats for the cut
+Judges: until that URL lands, click the mp4 (or the poster on the root README).
 
-1. Create / open a Roberto; show always-on runtime.
-2. First-run: paste Orbio key → DeepSeek Flash (Orbio) selected.
-3. Room handoff: agent does real work (browse / research / follow-up).
-4. Usage / Impact: Orbio-attributed spend visible.
-5. Close on “one key → always-on agent.”
+## What’s in the cut
+
+1. Always on Roberto / Room.
+2. First run Orbio key → DeepSeek Flash (Orbio).
+3. Real work in a Room.
+4. End card with live production Impact stats (66 users, 1.81B tokens, 647 hrs saved, $27.7K labor value).
+
+Script / shoot notes (historical): [`SCRIPT.md`](./SCRIPT.md).
