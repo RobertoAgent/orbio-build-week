@@ -2,7 +2,7 @@
 
 Source of truth: **production Impact SQL** on Roberto’s control plane (queried via platform; not estimates, not inflated).
 
-These figures are what the Remotion end card in [`orbio-build-week-demo.mp4`](./orbio-build-week-demo.mp4) displays. Poster still: [`endcard-still.png`](./endcard-still.png).
+These figures are what the demo end card displays. Poster still: [`endcard-still.png`](./endcard-still.png). Watch: https://www.youtube.com/watch?v=QOuDSep98Rc
 
 **Users:** display **66**, exact 66 (not 70)
 
@@ -35,4 +35,4 @@ https://github.com/RobertoAgent/orbio-build-week
 ## Cut notes
 
 * Final stitch: 60.6s, 1920×1080, h264 + aac
-* End card: Remotion, 225 frames @ 30fps = 7.50s
+* End card: 7.50s
