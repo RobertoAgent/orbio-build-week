@@ -15,23 +15,29 @@ We treated Orbio as the default path to “one key, all the models”:
 
 1. **Bring your Orbio key on first run.** Encrypted secret, same vault as other harnesses.
 2. **Auto select DeepSeek V4 Flash Latest (Orbio)** once that key is connected, so the welcome meeting and room brain hit `api.orbio.so` with the user’s key.
-3. **Managed Orbio, then OpenRouter fallback** so empty balances or outages don’t kill the session.
+3. **Orbio first managed inference** on supported models, plus the user’s BYOK Orbio key when connected.
 4. **Spend tracking.** Managed Orbio inference is attributed per user, agent, and Room for Impact and ops.
-5. **Onboarding that actually sends people to Orbio** (affiliate referral) without turning the product into a banner ad for a hackathon.
+5. **Onboarding that sends people to Orbio** (affiliate referral) without turning the product into a banner ad for a hackathon.
 
 ## Why it should win
 
-* It is a **real always on agent**, not a notebook that calls an API once.
-* Orbio is **wired into the product spine** (onboarding → default model → usage ledger), not a side demo.
-* Engineering bar is production: multi surface clients, warm pool, billing, Impact SQL, closed source runtime already disclosed to Orbio.
+* It is an **always on personal agent runtime**, not a notebook that calls an API once.
+* Orbio is **wired into the product spine** (onboarding → default model → usage ledger).
+* Engineering bar is production: web, mobile, and desktop, warm pool, billing, Impact SQL, closed source runtime already disclosed to Orbio.
 
 ## Demo
 
-Video is ready: [`assets/demo/orbio-build-week-demo.mp4`](./assets/demo/orbio-build-week-demo.mp4) (60.6s, h264, Remotion end card). Poster: [`assets/demo/endcard-still.png`](./assets/demo/endcard-still.png).
+[![Demo end card](./assets/demo/endcard-still.png)](https://www.youtube.com/watch?v=QOuDSep98Rc)
+
+**[Watch on YouTube](https://www.youtube.com/watch?v=QOuDSep98Rc)** (60.6s). Poster: [`assets/demo/endcard-still.png`](./assets/demo/endcard-still.png).
 
 End card numbers are **production Impact SQL**, not estimates: 66 users, 1.81B tokens, 647 hrs saved, $27.7K labor value. See [`assets/demo/STATS.md`](./assets/demo/STATS.md).
 
-**[Watch on YouTube (Unlisted)](https://www.youtube.com/watch?v=QOuDSep98Rc)**. Local mp4 still plays in GitHub’s viewer. Channel: [YouTube](https://www.youtube.com/channel/UCqvLhrwY5FILClPrAHZqU-Q) · [`@RobertoAgent-h4c`](https://www.youtube.com/@RobertoAgent-h4c). Live product: [robertoagent.com](https://robertoagent.com) (invite / early access).
+Channel: [https://www.youtube.com/channel/UCqvLhrwY5FILClPrAHZqU-Q](https://www.youtube.com/channel/UCqvLhrwY5FILClPrAHZqU-Q)
+
+https://www.youtube.com/@RobertoAgent-h4c
+
+Live product: [robertoagent.com](https://robertoagent.com).
 
 ## Ask
 

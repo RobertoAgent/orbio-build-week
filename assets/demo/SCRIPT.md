@@ -1,7 +1,7 @@
 # Demo video script: Orbio Build Week
 
 **Target length:** 90 to 120 seconds (also works cut to 60s)
-**Format:** Loom or screen + bubble cam
+**Format:** screen plus bubble cam
 **Face:** bubble cam. 5 to 8s intro looking at camera, small circle while driving UI, face again on end card. Not a full face takeover.
 
 ## Script
@@ -22,7 +22,7 @@
 **CAM:** bubble only.
 
 ### Why Orbio (55 to 75s)
-**VO:** “One OpenAI compatible Orbio key unlocks the models and tools. If your balance dips, managed Orbio falls back so the session doesn’t die, and we track spend per user, agent, and Room.”
+**VO:** “One OpenAI compatible Orbio key unlocks the models and tools. Managed Orbio inference keeps the session on supported models, and we track spend per user, agent, and Room.”
 **ON SCREEN:** Usage / Impact with Orbio attributed usage (no sensitive numbers, no keys).
 **CAM:** bubble only.
 
@@ -40,8 +40,8 @@ https://github.com/RobertoAgent/orbio-build-week
 * 1080p, dark UI readable
 * Mute / blur real emails, keys, customer data
 * Bubble cam sized so product UI stays primary
-* Export to `assets/demo/orbio-build-week-demo.mp4` (done)
-* Link or embed from root README demo section (done)
+* Watch path: https://www.youtube.com/watch?v=QOuDSep98Rc
+* Poster still: `assets/demo/endcard-still.png` linked from root README
 
 ## 60 second cut
 

@@ -1,6 +1,6 @@
 # Architecture notes (submission)
 
-This document describes the **public architecture** of Roberto as it relates to Orbio. It intentionally omits proprietary implementation details and contains **no source code**.
+This document describes the **public architecture** of Roberto as it relates to Orbio. It omits proprietary implementation details and contains **no source code**.
 
 ## Surfaces
 
@@ -24,8 +24,8 @@ Agent / room model selector
         │
         ▼
 Runtime LLM calls (OpenAI compatible)
-  ├─ user Orbio key (preferred)
-  └─ managed Orbio → OpenRouter fallback
+  ├─ user Orbio key (BYOK)
+  └─ managed Orbio inference (supported models)
         │
         ▼
 llm_usage_events (+ cost_source provenance)
@@ -37,10 +37,8 @@ Rooms are the shared workspaces (internally chat sessions). Guests do not pay; u
 
 ## Diagram slots
 
-Drop polished visuals here:
-
 * `assets/diagrams/system-overview.png` clients → API → runtime → Orbio
-* `assets/diagrams/orbio-key-flow.png` BYOK → default model → fallback → usage
+* `assets/diagrams/orbio-key-flow.png` BYOK → default model → managed inference → usage
 * `assets/diagrams/room-session.png` Room participants + agent tools
 
 ASCII overview also lives in the root [`README.md`](../README.md).
