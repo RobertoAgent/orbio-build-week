@@ -1,0 +1,13 @@
+# Screenshots (placeholders)
+
+Drop PNGs/WebPs here. Suggested names:
+
+| File | Shot |
+| --- | --- |
+| `01-onboarding-orbio-key.png` | First-run Orbio key connect |
+| `02-model-deepseek-flash-orbio.png` | DeepSeek Flash Latest (Orbio) selected |
+| `03-room-agent-working.png` | Room with agent mid-task |
+| `04-browser-viewer.png` | Agent browser / tools |
+| `05-usage-orbio.png` | Usage / Impact with Orbio spend |
+
+Until real screenshots land, judges can use the live product at [robertoagent.com](https://robertoagent.com).
